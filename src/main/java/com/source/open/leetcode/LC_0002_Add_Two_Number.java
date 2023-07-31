@@ -6,7 +6,6 @@ public class LC_0002_Add_Two_Number {
 
 	// Time complexity: O(n).
 	// We traverse the list containing n elements only once.
-	// Each lookup in the table costs only O(1) time.
 
 	// Space complexity: O(1).
 	// If we leave the resultant List that we used
