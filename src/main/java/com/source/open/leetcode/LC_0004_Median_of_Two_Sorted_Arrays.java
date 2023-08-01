@@ -6,7 +6,7 @@ public class LC_0004_Median_of_Two_Sorted_Arrays {
 		int len1 = nums1.length;
 		int len2 = nums2.length;
 
-		boolean odd = ((len1 + nums2.length & 1) == 1);
+		boolean odd = (((len1 + len2) & 1) == 1);
 
 		double d;
 

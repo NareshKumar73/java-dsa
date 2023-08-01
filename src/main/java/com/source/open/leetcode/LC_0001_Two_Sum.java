@@ -8,7 +8,7 @@ public class LC_0001_Two_Sum {
 	// Complexity Analysis
 
 	// Time complexity: O(n).
-	// We traverse the list containing n elements only once.
+	// We traverse the array containing n elements only once.
 	// Each lookup in the table costs only O(1) time.
 
 	// Space complexity: O(n).

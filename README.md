@@ -1,7 +1,8 @@
 Java Data Structure and Algorithm solutions
-# java-dsa 
-# leet-code 
-# geeks-for-geeks
+#java
+#dsa 
+#leetcode 
+#geeksforgeeks
 
 # Java 8 and above features are used.
 

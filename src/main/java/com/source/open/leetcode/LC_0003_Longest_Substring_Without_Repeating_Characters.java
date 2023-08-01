@@ -13,6 +13,11 @@ public class LC_0003_Longest_Substring_Without_Repeating_Characters {
 
 	// Time complexity: O(n).
 	// Space complexity: O(1).
+
+	/*		
+	 * Runtime Details 2ms		Beats 99.99% of users with Java 
+	 * Memory  Details 41.7MB 	Beats 99.50% of users with Java	
+	 */
 	public int withTwoPointerApproach(String s) {
 
 		int l = 0, max = 0;

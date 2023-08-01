@@ -4,6 +4,9 @@
 
 tomcat
 
+# Powershell Core Script
+*.ps1
+
 #
 # Default excludes
 #
